@@ -1,0 +1,4 @@
+auctioncoin
+===========
+
+Cryptocurrency coin
